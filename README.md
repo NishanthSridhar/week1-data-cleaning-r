@@ -1,6 +1,6 @@
 # Week 1 Task — Data Cleaning and Preliminary Analysis with R
 
-**Satsuma Software Engineering Internship Program**
+**Software Engineering Internship Program**
 **Author:** Nishanth Sridhar
 
 ## Overview
@@ -69,4 +69,4 @@ This regenerates `employee_attrition_cleaned.csv` and all charts (missing-value 
 
 ## License
 
-Educational project prepared for the Satsuma / Yuva Intern internship program.
+Educational project prepared for the Yuva Intern internship program.
