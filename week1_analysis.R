@@ -1,5 +1,5 @@
 ## =============================================================
-## Satsuma Internship — Week 1: Data Cleaning & Preliminary Analysis
+## Internship Week 1: Data Cleaning & Preliminary Analysis
 ## Dataset : Employee Attrition Dataset (HR analytics, 500+ employees)
 ## Author  : Nishanth Sridhar
 ## =============================================================
